@@ -1,6 +1,6 @@
-## Build Flask App
+## New Flask Builder
 
-An easy to use flask app generator that allows users to create flask apps simply by running one command. You can check out the official website [here](https://buildflaskapp.kouul.website).
+An easy to use flask app generator that allows users to create flask apps simply by running one command.　This is a improved version of BuildFlaskApp!
 
 <p align="center">
 <img src="./buildflaskapp/img/logo.gif">
@@ -8,7 +8,7 @@ An easy to use flask app generator that allows users to create flask apps simply
 
 ### Install using pip/pip3
 ```
-$ pip3 install buildflaskapp
+$ pip3 install newflaskbuilder
 ```
 Package @ PyPI repository: https://pypi.org/project/buildflaskapp/
 
